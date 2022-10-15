@@ -116,7 +116,15 @@ h1 {
 
   color: #000000;
 }
+#ellipse {
+  position: absolute;
+  width: 0px;
+  height: 41px;
+  left: 921px;
+  top: 558px;
 
+  background: #efefef;
+}
 #naroot1 {
   position: absolute;
   width: 304px;
@@ -127,15 +135,6 @@ h1 {
   background: url(noroot.png);
 }
 
-#ellipse {
-  position: absolute;
-  width: 274px;
-  height: 41px;
-  left: 921px;
-  top: 558px;
-
-  background: #efefef;
-}
 #p1 {
   position: absolute;
   width: 414px;
@@ -154,12 +153,55 @@ h1 {
 }
 
 #bluegorup {
-  position: absolute;
-  width: 483.63px;
-  height: 200px;
-  left: 409.39px;
-  top: 666.62px;
+    position: absolute;
+    width: 483.63px;
+    height: 200.02px;
+    left: 409.39px;
+    top: 666.62px;    
 
-  background: #1e4681;
-  border-radius: 5px;
 }
+
+#p2 {
+  position: absolute;
+  width: 430.59px;
+  height: 113px;
+  left: 435.42px;
+  top: 685.88px;
+
+  font-family: "Roboto Slab";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 130%;
+  /* or 32px */
+
+  color: #ffffff;
+}
+
+#p3 {
+  position: absolute;
+  width: 280.5px;
+  height: 45.64px;
+  left: 594px;
+  top: 821px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 130%;
+  /* or 26px */
+
+  text-align: right;
+
+  color: #ffffff;
+}
+
+#rectangle{position: absolute;
+    width: 483.63px;
+    height: 200px;
+    left: 409.39px;
+    top: 666.62px;
+    
+    background: #1E4681;
+    border-radius: 5px;}
