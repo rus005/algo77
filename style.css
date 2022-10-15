@@ -1,0 +1,19 @@
+#mainDiv{
+   width: 1440px;
+   height: 6575px; 
+}
+
+
+#image1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 112px;
+height: 66px;
+left: 121px;
+top: 21px;
+
+background: url(logo_mobile_black.png);
+border: 1px solid #000000;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
