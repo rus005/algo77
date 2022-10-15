@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto+Slab:wght@400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Roboto+Slab:wght@400;700&display=swap");
 body {
   width: 1440px;
   height: 6575px;
@@ -32,7 +32,7 @@ body {
   width: 130px;
   height: 32px;
   left: 151px;
-  top: 187px;
+  top: 170px;
 
   font-family: "Roboto";
   font-style: normal;
@@ -59,7 +59,7 @@ body {
   width: 130px;
   height: 32px;
   left: 338px;
-  top: 187px;
+  top: 170px;
 
   font-family: "Roboto";
   font-style: normal;
@@ -88,7 +88,7 @@ body {
   width: 130px;
   height: 32px;
   left: 500px;
-  top: 187px;
+  top: 170px;
 
   font-family: "Roboto";
   font-style: normal;
@@ -100,20 +100,66 @@ body {
   color: #000000;
 }
 
-h1{
-    position: absolute;
-    width: 628px;
-    height: 190px;
-    left: 122px;
-    top: 248px;
-    
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 80px;
-    line-height: 101.38%;
-    /* or 81px */
-    
-    
-    color: #000000;
-    }
+h1 {
+  position: absolute;
+  width: 628px;
+  height: 190px;
+  left: 122px;
+  top: 248px;
+
+  font-family: "Roboto Slab";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 80px;
+  line-height: 101.38%;
+  /* or 81px */
+
+  color: #000000;
+}
+
+#naroot1 {
+  position: absolute;
+  width: 304px;
+  height: 356px;
+  left: 890px;
+  top: 223px;
+
+  background: url(noroot.png);
+}
+
+#ellipse {
+  position: absolute;
+  width: 274px;
+  height: 41px;
+  left: 921px;
+  top: 558px;
+
+  background: #efefef;
+}
+#p1 {
+  position: absolute;
+  width: 414px;
+  height: 62px;
+  left: 122px;
+  top: 450px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  /* or 30px */
+
+  color: #000000;
+}
+
+#bluegorup {
+  position: absolute;
+  width: 483.63px;
+  height: 200px;
+  left: 409.39px;
+  top: 666.62px;
+
+  background: #1e4681;
+  border-radius: 5px;
+}
