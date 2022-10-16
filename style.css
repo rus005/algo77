@@ -1,5 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Lato&family=Roboto+Slab:wght@400;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Slab&display=swap');
 
 body {
   width: 1440px;
@@ -247,3 +246,306 @@ h1 {
 
   color: #000000;
 }
+
+#cameraman {
+  position: absolute;
+  width: 314px;
+  height: 315px;
+  left: 973px;
+  top: 1175px;
+
+  background: url(_1.png);
+}
+
+#photo1 {
+  position: absolute;
+  width: 232px;
+  height: 203px;
+  left: 121px;
+  top: 1619px;
+
+  background: url(photo.png);
+}
+
+#h31 {
+  position: absolute;
+  width: 150px;
+  height: 39px;
+  left: 485px;
+  top: 1689px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 130%;
+  /* or 32px */
+
+
+  color: #000000;
+
+}
+
+#h32 {
+  position: absolute;
+  width: 150px;
+  height: 39px;
+  left: 730px;
+  top: 1689px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 130%;
+  /* or 32px */
+
+
+  color: #000000;
+}
+
+#h33 {
+  position: absolute;
+  width: 150px;
+  height: 39px;
+  left: 973px;
+  top: 1689px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 130%;
+  /* or 32px */
+
+
+  color: #000000;
+
+}
+
+#p51 {
+  position: absolute;
+  width: 150px;
+  height: 39px;
+  left: 485px;
+  top: 1729px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 130%;
+  /* or 23px */
+
+
+  color: #000000;
+
+
+}
+
+#p52 {
+  position: absolute;
+  width: 150px;
+  height: 39px;
+  left: 730px;
+  top: 1729px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 130%;
+  /* or 23px */
+
+
+  color: #000000;
+
+}
+
+#p53 {
+  position: absolute;
+  width: 150px;
+  height: 39px;
+  left: 973px;
+  top: 1729px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 130%;
+  /* or 23px */
+
+
+  color: #000000;
+}
+
+#divh3 {
+  position: absolute;
+  width: 667px;
+  height: 93px;
+  left: 121px;
+  top: 2000px;
+
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 55px;
+  line-height: 101.38%;
+  /* or 56px */
+
+
+  color: #000000;
+}
+
+#divh41 {
+  position: absolute;
+  width: 150px;
+  height: 39px;
+  left: 122px;
+  top: 2182px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 130%;
+  /* or 32px */
+
+
+  color: #1E4681;
+
+}
+
+#divh42 {
+  position: absolute;
+  width: 214px;
+  height: 39px;
+  left: 467px;
+  top: 2182px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 130%;
+  /* or 32px */
+
+
+  color: #1E4681;
+
+
+}
+
+#divh43 {
+
+  position: absolute;
+  width: 150px;
+  height: 39px;
+  left: 851px;
+  top: 2182px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 130%;
+  /* or 32px */
+
+
+  color: #1E4681;
+
+}
+
+#divp1 {
+  position: absolute;
+  width: 223px;
+  height: 39px;
+  left: 122px;
+  top: 2240px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 130%;
+  /* or 23px */
+
+
+  color: #000000;
+}
+
+#divp2 {
+  position: absolute;
+  width: 271px;
+  height: 109px;
+  left: 467px;
+  top: 2240px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 130%;
+  /* or 23px */
+
+
+  color: #000000;
+}
+
+#divp3 {
+  position: absolute;
+  width: 245px;
+  height: 39px;
+  left: 851px;
+  top: 2240px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 130%;
+  /* or 23px */
+
+
+  color: #000000;
+}
+
+#listDivul {
+  position: absolute;
+  width: 662px;
+  height: 374px;
+  left: 138px;
+  top: 2624px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 150%;
+  /* or 36px */
+
+
+  color: #000000;
+}
+
+#listDivh {
+  position: absolute;
+  width: 667px;
+  height: 93px;
+  left: 121px;
+  top: 2510px;
+
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 55px;
+  line-height: 101.38%;
+  /* or 56px */
+
+
+  color: #000000;
+}
+
+
+
