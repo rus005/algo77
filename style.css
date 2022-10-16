@@ -1292,3 +1292,30 @@ h1 {
   color: #000000;
   z-index: 2;
 }
+
+
+
+
+
+
+#section3 {
+  position: absolute;
+  width: 1440px;
+  height: 390px;
+  left: -1px;
+  top: 6185px;
+
+  background: #000000;
+  z-index: 2;
+}
+#section3par{z-index: 2;}
+
+#sinc1 {
+  position: absolute;
+  width: 115px;
+  height: 68px;
+  left: 121px;
+  top: 6235px;
+  z-index: 3;
+}
+
