@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Lato&family=Roboto+Slab:wght@400;700&display=swap");
+
 body {
   width: 1440px;
   height: 6575px;
@@ -83,6 +84,7 @@ body {
   background: url(calendar_2.png);
   border: 1px solid #000000;
 }
+
 #ecent {
   position: absolute;
   width: 130px;
@@ -116,6 +118,7 @@ h1 {
 
   color: #000000;
 }
+
 #ellipse {
   position: absolute;
   width: 0px;
@@ -125,6 +128,7 @@ h1 {
 
   background: #efefef;
 }
+
 #naroot1 {
   position: absolute;
   width: 304px;
@@ -153,11 +157,11 @@ h1 {
 }
 
 #bluegorup {
-    position: absolute;
-    width: 483.63px;
-    height: 200.02px;
-    left: 409.39px;
-    top: 666.62px;    
+  position: absolute;
+  width: 483.63px;
+  height: 200.02px;
+  left: 409.39px;
+  top: 666.62px;
 
 }
 
@@ -166,7 +170,7 @@ h1 {
   width: 430.59px;
   height: 113px;
   left: 435.42px;
-  top: 685.88px;
+  top: 667.88px;
 
   font-family: "Roboto Slab";
   font-style: normal;
@@ -183,7 +187,7 @@ h1 {
   width: 280.5px;
   height: 45.64px;
   left: 594px;
-  top: 821px;
+  top: 811px;
 
   font-family: "Roboto";
   font-style: normal;
@@ -197,11 +201,49 @@ h1 {
   color: #ffffff;
 }
 
-#rectangle{position: absolute;
-    width: 483.63px;
-    height: 200px;
-    left: 409.39px;
-    top: 666.62px;
-    
-    background: #1E4681;
-    border-radius: 5px;}
+#rectangle {
+  position: absolute;
+  width: 483.63px;
+  height: 200px;
+  left: 409.39px;
+  top: 666.62px;
+
+  background: #1E4681;
+  border-radius: 5px;
+}
+
+#h2 {
+  position: absolute;
+  width: 365px;
+  height: 93px;
+  left: 121px;
+  top: 1040px;
+
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 55px;
+  line-height: 101.38%;
+  /* or 56px */
+
+
+  color: #000000;
+}
+
+#p4 {
+  position: absolute;
+  width: 662px;
+  height: 374px;
+  left: 121px;
+  top: 1151px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 150%;
+  /* or 36px */
+
+
+  color: #000000;
+}
