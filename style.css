@@ -23,7 +23,21 @@ body {
     left: 121px;
     top: 184px;
 }
+#smotret{position: absolute;
+width: 363.72px;
+height: 110.04px;
+left: 70.66px;
+top: 144.2px;
 
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 46px;
+line-height: 101.38%;
+/* or 47px */
+
+
+color: #000000;}
 #onlinecourse {
     position: absolute;
     width: 130px;
@@ -1138,3 +1152,148 @@ h1 {
     top: 6235px;
     z-index: 3;
 }
+
+
+/* footer */
+
+#section3 {
+    position: absolute;
+    width: 1440px;
+    height: 390px;
+    left: -1px;
+    top: 6185px;
+  
+    background: #000000;
+    z-index: 2;
+  }
+  
+  #section3par {
+    z-index: 2;
+  }
+  
+  
+  #sinc1 {
+    position: absolute;
+    width: 115px;
+    height: 68px;
+    left: 121px;
+    top: 6235px;
+    z-index: 2;
+  }
+  
+  #instagramLogo {
+    position: absolute;
+    width: 33px;
+    height: 33px;
+    left: 121px;
+    top: 6333px;
+    z-index: 2;
+  
+  }
+  
+  #fbLogo {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 172px;
+    top: 6333px;
+    z-index: 2;
+  
+  }
+  
+  #vkLogo {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 225px;
+    top: 6331px;
+    z-index: 2;
+  
+  }
+  
+  #viberLogo {
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    left: 285px;
+    top: 6332px;
+    z-index: 2;
+  
+  }
+  
+  #wphone {
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    left: 975px;
+    top: 6239px;
+    z-index: 2;
+  
+  }
+  
+  #wmail {
+    position: absolute;
+    width: 27px;
+    height: 18px;
+    left: 975px;
+    top: 6291px;
+    z-index: 2;
+  
+  }
+  
+  #phoneNum {
+    position: absolute;
+    width: 230px;
+    height: 40px;
+    left: 1024px;
+    top: 6244px;
+  
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 101.38%;
+    /* or 25px */
+  
+  
+    color: #FFFFFF;
+    z-index: 2;
+  }
+  
+  #mailAdress {
+    position: absolute;
+    width: 269px;
+    height: 40px;
+    left: 1024px;
+    top: 6287px;
+  
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 101.38%;
+    /* or 25px */
+  
+  
+    color: #FFFFFF;
+    z-index: 2;
+  }
+  
+  #corp {
+    position: absolute;
+    width: 230px;
+    height: 40px;
+    left: 121px;
+    top: 6512px;
+  
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 101.38%;
+    /* or 18px */
+  
+  
+    color: #FFFFFF;
+    z-index: 2;
+  }
