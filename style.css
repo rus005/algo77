@@ -1089,7 +1089,7 @@ h1 {
     width: 230px;
     height: 40px;
     left: 1024px;
-    top: 6244px;
+    top: 6214px;
   
     font-family: 'Roboto';
     font-style: normal;
@@ -1108,7 +1108,7 @@ h1 {
     width: 269px;
     height: 40px;
     left: 1024px;
-    top: 6287px;
+    top: 6267px;
   
     font-family: 'Roboto';
     font-style: normal;
@@ -1287,3 +1287,5 @@ h1 {
     color: #000000;
     z-index: 2;
   }
+
+  
