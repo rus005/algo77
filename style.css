@@ -556,6 +556,7 @@ h1 {
   left: 121px;
   top: 3246px;
 
+
   font-family: 'Roboto Slab';
   font-style: normal;
   font-weight: 700;
@@ -596,14 +597,13 @@ h1 {
   width: 365px;
   height: 39px;
   left: 104px;
-  top: 3575px;
+  top: 3605px;
 
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 700;
   font-size: 30px;
   line-height: 130%;
-  /* identical to box height, or 39px */
 
 
   color: #000000;
@@ -615,7 +615,8 @@ h1 {
   width: 365px;
   height: 63px;
   left: 103px;
-  top: 3656px;
+  top: 3676px;
+
 
   font-family: 'Roboto';
   font-style: normal;
@@ -627,6 +628,9 @@ h1 {
 
   color: #000000;
 }
+
+
+
 
 #icondiv2 {
   position: absolute;
@@ -646,7 +650,7 @@ h1 {
   width: 365px;
   height: 39px;
   left: 540px;
-  top: 3575px;
+  top: 3605px;
 
   font-family: 'Roboto';
   font-style: normal;
@@ -665,7 +669,7 @@ h1 {
   width: 365px;
   height: 63px;
   left: 539px;
-  top: 3656px;
+  top: 3676px;
 
   font-family: 'Roboto';
   font-style: normal;
@@ -690,6 +694,8 @@ h1 {
 
 
 
+
+
 #icondiv3 {
   position: absolute;
   width: 399px;
@@ -708,7 +714,8 @@ h1 {
   width: 365px;
   height: 39px;
   left: 976px;
-  top: 3575px;
+  top: 3605px;
+
 
   font-family: 'Roboto';
   font-style: normal;
@@ -727,7 +734,7 @@ h1 {
   width: 365px;
   height: 63px;
   left: 975px;
-  top: 3656px;
+  top: 3676px;
 
   font-family: 'Roboto';
   font-style: normal;
@@ -775,7 +782,7 @@ h1 {
   width: 365px;
   height: 39px;
   left: 104px;
-  top: 3954px;
+  top: 3974px;
 
   font-family: 'Roboto';
   font-style: normal;
@@ -794,7 +801,8 @@ h1 {
   width: 365px;
   height: 63px;
   left: 103px;
-  top: 4025px;
+  top: 4045px;
+
 
   font-family: 'Roboto';
   font-style: normal;
@@ -838,7 +846,7 @@ h1 {
   width: 365px;
   height: 39px;
   left: 540px;
-  top: 3954px;
+  top: 3974px;
 
   font-family: 'Roboto';
   font-style: normal;
@@ -857,7 +865,7 @@ h1 {
   width: 365px;
   height: 63px;
   left: 539px;
-  top: 4025px;
+  top: 4045px;
 
   font-family: 'Roboto';
   font-style: normal;
@@ -902,7 +910,7 @@ h1 {
   width: 365px;
   height: 39px;
   left: 976px;
-  top: 3954px;
+  top: 3974px;
 
   font-family: 'Roboto';
   font-style: normal;
@@ -921,7 +929,7 @@ h1 {
   width: 365px;
   height: 63px;
   left: 975px;
-  top: 4025px;
+  top: 4045px;
 
   font-family: 'Roboto';
   font-style: normal;
@@ -977,7 +985,7 @@ h1 {
   width: 365px;
   height: 39px;
   left: 104px;
-  top: 4327px;
+  top: 4347px;
 
   font-family: 'Roboto';
   font-style: normal;
@@ -996,7 +1004,8 @@ h1 {
   width: 365px;
   height: 63px;
   left: 103px;
-  top: 4398px;
+  top: 4418px;
+
 
   font-family: 'Roboto';
   font-style: normal;
@@ -1035,9 +1044,10 @@ h1 {
 #icon8h {
   position: absolute;
   width: 365px;
-  height: 39px;
+  height: 71px;
   left: 540px;
-  top: 4320px;
+  top: 4347px;
+  
 
   font-family: 'Roboto';
   font-style: normal;
@@ -1056,7 +1066,7 @@ h1 {
   width: 365px;
   height: 63px;
   left: 539px;
-  top: 4398px;
+  top: 4420px;
 
   font-family: 'Roboto';
   font-style: normal;
@@ -1126,5 +1136,5 @@ h1 {
 
 
   color: #000000;
-  
+
 }
