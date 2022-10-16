@@ -997,3 +997,293 @@ h1 {
     left: 225px;
     top: 294px;
 }
+/* footer */
+
+#section3 {
+    position: absolute;
+    width: 1440px;
+    height: 390px;
+    left: -1px;
+    top: 6185px;
+  
+    background: #000000;
+    z-index: 2;
+  }
+  
+  #section3par {
+    z-index: 2;
+  }
+  
+  
+  #sinc1 {
+    position: absolute;
+    width: 115px;
+    height: 68px;
+    left: 121px;
+    top: 6235px;
+    z-index: 2;
+  }
+  
+  #instagramLogo {
+    position: absolute;
+    width: 33px;
+    height: 33px;
+    left: 121px;
+    top: 6333px;
+    z-index: 2;
+  
+  }
+  
+  #fbLogo {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 172px;
+    top: 6333px;
+    z-index: 2;
+  
+  }
+  
+  #vkLogo {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 225px;
+    top: 6331px;
+    z-index: 2;
+  
+  }
+  
+  #viberLogo {
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    left: 285px;
+    top: 6332px;
+    z-index: 2;
+  
+  }
+  
+  #wphone {
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    left: 975px;
+    top: 6239px;
+    z-index: 2;
+  
+  }
+  
+  #wmail {
+    position: absolute;
+    width: 27px;
+    height: 18px;
+    left: 975px;
+    top: 6291px;
+    z-index: 2;
+  
+  }
+  
+  #phoneNum {
+    position: absolute;
+    width: 230px;
+    height: 40px;
+    left: 1024px;
+    top: 6244px;
+  
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 101.38%;
+    /* or 25px */
+  
+  
+    color: #FFFFFF;
+    z-index: 2;
+  }
+  
+  #mailAdress {
+    position: absolute;
+    width: 269px;
+    height: 40px;
+    left: 1024px;
+    top: 6287px;
+  
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 101.38%;
+    /* or 25px */
+  
+  
+    color: #FFFFFF;
+    z-index: 2;
+  }
+  
+  #corp {
+    position: absolute;
+    width: 230px;
+    height: 40px;
+    left: 121px;
+    top: 6512px;
+  
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 101.38%;
+    /* or 18px */
+  
+  
+    color: #FFFFFF;
+    z-index: 2;
+  }
+  #section2 {
+    position: absolute;
+    width: 1440px;
+    height: 780px;
+    left: -1px;
+    top: 5405px;
+  
+    background: #9DC9C8;
+    z-index: 1;
+  }
+  
+  #sectionpar {
+    z-index: 2;
+  }
+  
+  #section2Header {
+    position: absolute;
+    width: 908px;
+    height: 66px;
+    left: 121px;
+    top: 5584px;
+  
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+    /* or 56px */
+  
+  
+    color: #000000;
+    z-index: 2;
+  }
+  
+  #section2Hedar4 {
+    position: absolute;
+    width: 170px;
+    height: 32px;
+    left: 121px;
+    top: 5704px;
+  
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 101.38%;
+    /* or 25px */
+  
+  
+    color: #000000;
+    z-index: 2;
+  }
+  
+  #scena {
+    position: absolute;
+    width: 481px;
+    height: 181px;
+    left: 121px;
+    top: 5734px;
+  
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 101.38%;
+    /* or 81px */
+  
+  
+    color: #000000;
+    z-index: 2;
+  }
+  
+  #section2Header41 {
+    position: absolute;
+    width: 294px;
+    height: 32px;
+    left: 121px;
+    top: 5889px;
+  
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 101.38%;
+    /* or 25px */
+  
+  
+    color: #000000;
+    z-index: 2;
+  }
+  
+  #section2h41p1 {
+    position: absolute;
+    width: 294px;
+    height: 70px;
+    left: 121px;
+    top: 5930px;
+  
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 101.38%;
+    /* or 18px */
+  
+  
+    color: #000000;
+    z-index: 2;
+  }
+  
+  #section2Header42 {
+    position: absolute;
+    width: 322px;
+    height: 32px;
+    left: 485px;
+    top: 5889px;
+  
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 101.38%;
+    /* or 25px */
+  
+  
+    color: #000000;
+    z-index: 2;
+  }
+  
+  #section2h42p2 {
+    position: absolute;
+    width: 294px;
+    height: 70px;
+    left: 485px;
+    top: 5930px;
+  
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 101.38%;
+    /* or 18px */
+  
+  
+    color: #000000;
+    z-index: 2;
+  }
