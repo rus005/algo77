@@ -1047,7 +1047,7 @@ h1 {
   height: 71px;
   left: 540px;
   top: 4347px;
-  
+
 
   font-family: 'Roboto';
   font-style: normal;
@@ -1137,4 +1137,158 @@ h1 {
 
   color: #000000;
 
+}
+
+
+
+
+
+
+
+#section2 {
+  position: absolute;
+  width: 1440px;
+  height: 780px;
+  left: -1px;
+  top: 5405px;
+
+  background: #9DC9C8;
+  z-index: 1;
+}
+
+#sectionpar {
+  z-index: 2;
+}
+
+#section2Header {
+  position: absolute;
+  width: 908px;
+  height: 66px;
+  left: 121px;
+  top: 5584px;
+
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 55px;
+  line-height: 101.38%;
+  /* or 56px */
+
+
+  color: #000000;
+  z-index: 2;
+}
+
+#section2Hedar4 {
+  position: absolute;
+  width: 170px;
+  height: 32px;
+  left: 121px;
+  top: 5704px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 101.38%;
+  /* or 25px */
+
+
+  color: #000000;
+  z-index: 2;
+}
+
+#scena {
+  position: absolute;
+  width: 481px;
+  height: 181px;
+  left: 121px;
+  top: 5734px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 80px;
+  line-height: 101.38%;
+  /* or 81px */
+
+
+  color: #000000;
+  z-index: 2;
+}
+
+#section2Header41 {
+  position: absolute;
+  width: 294px;
+  height: 32px;
+  left: 121px;
+  top: 5889px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 101.38%;
+  /* or 25px */
+
+
+  color: #000000;
+  z-index: 2;
+}
+
+#section2h41p1 {
+  position: absolute;
+  width: 294px;
+  height: 70px;
+  left: 121px;
+  top: 5930px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 101.38%;
+  /* or 18px */
+
+
+  color: #000000;
+  z-index: 2;
+}
+
+#section2Header42 {
+  position: absolute;
+  width: 322px;
+  height: 32px;
+  left: 485px;
+  top: 5889px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 101.38%;
+  /* or 25px */
+
+
+  color: #000000;
+  z-index: 2;
+}
+
+#section2h42p2 {
+  position: absolute;
+  width: 294px;
+  height: 70px;
+  left: 485px;
+  top: 5930px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 101.38%;
+  /* or 18px */
+
+
+  color: #000000;
+  z-index: 2;
 }
